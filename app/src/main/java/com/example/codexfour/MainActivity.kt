@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
     //message from mac
     //message form new-branch
     //second message from new-branch
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
